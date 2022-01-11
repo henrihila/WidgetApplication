@@ -39,6 +39,7 @@ Project structure:
     - pip install Flask
     - pip install Flask-RESTful
     - pip install Flask-SQLAlchemy
+    - pip install requests
 4. Start server by running python app.py or flask run
 5. For unit testing: Run test_widget.py script under /tests directory. Instructions (assuming flask server is still up and running):
     - Open a new terminal window
